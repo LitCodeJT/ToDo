@@ -1,5 +1,6 @@
 # README
 
+## I am Tan Yan Feng, matriculation number: e0543688.
 This is a web-based to-do list using a react frontend, sqlite backend, and ruby on rails to connect them.
 Open command prompt and run
 
